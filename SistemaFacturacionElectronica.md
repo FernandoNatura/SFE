@@ -3,11 +3,90 @@
         background-color: yellow;
     }
 </style>
-## TÍTULO I
-## DISPOSICIONES GENERALES
 
-### CAPÍTULO I
-### ASPECTOS GENERALES
+- [TÍTULO I DISPOSICIONES GENERALES](#t-tulo-i-disposiciones-generales)
+    - CAPÍTULO I ASPECTOS GENERALES
+        - Artículo 1. (Objeto)
+        - Artículo 2. (Alcance)
+        - [ Artículo 3. (Sistema de Facturación Electrónica)](#art-culo-3-sistema-de-facturaci-n-electr-nica-)
+        - [ Artículo 4. (Definiciones)](#art-culo-4-definiciones-)
+        - Artículo 5. (Obligación de Exhibición)
+        - Artículo 6. (Publicación de Listado de Espectáculos Públicos Autorizados).-
+    - [CAPÍTULO II DOCUMENTOS FISCALES](#cap-tulo-ii-documentos-fiscales)
+        - [Artículo 7. (Documentos Fiscales)](#art-culo-7-documentos-fiscales-)
+        - [Artículo 8. (Particularidades de los Documentos Fiscales)](#art-culo-8-particularidades-de-los-documentos-fiscales-)
+        - [Artículo 9. (Otras características de los Documentos Fiscales)](#art-culo-9-otras-caracter-sticas-de-los-documentos-fiscales-) 
+        - Artículo 10. (Criterios para la autorización de Documentos Fiscales)
+- [TÍTULO II SISTEMA DE FACTURACIÓN](#t-tulo-ii-sistema-de-facturaci-n)
+    - CAPÍTULO I ASPECTOS GENERALES
+        - [Artículo 11. (Documentos Fiscales Electrónicos)](#art-culo-11-documentos-fiscales-electr-nicos-)
+        - [Artículo 12. (Asignación del Código de Cliente)](#art-culo-12-asignaci-n-del-c-digo-de-cliente-)
+        - [Artículo 13. (Datos almacenados en el Sistema de Facturación)](#art-culo-13-datos-almacenados-en-el-sistema-de-facturaci-n-)
+    - [CAPÍTULO II REQUISITOS DEL SISTEMA DE FACTURACIÓN](#cap-tulo-ii-requisitos-del-sistema-de-facturaci-n)
+        - [Artículo 14. (Sistema de Facturación)](#art-culo-14-sistema-de-facturaci-n-)
+        - [Artículo 15. (Clasificación de Sistemas de Facturación)](#art-culo-15-clasificaci-n-de-sistemas-de-facturaci-n-)
+        - [Artículo 16. (Componentes Mínimos)](#art-culo-16-componentes-m-nimos-)
+        - [Artículo 17. (Registro y Envío de Eventos Significativos)](#art-culo-17-registro-y-env-o-de-eventos-significativos-)
+        - [Artículo 18. (Documentos Fiscales manuales registrados en el Sistema de Facturación)](#art-culo-18-documentos-fiscales-manuales-registrados-en-el-sistema-de-facturaci-n-)
+        - [Artículo 19. (Sincronización de Catálogos)](#art-culo-19-sincronizaci-n-de-cat-logos-)
+        - [Artículo 20. (Sincronización de fecha y hora del sistema)](#art-culo-20-sincronizaci-n-de-fecha-y-hora-del-sistema-)
+        - [Artículo 21. (Reportes)](#art-culo-21-reportes-)
+        - [Artículo 22. (Código Único de Inicio de Sistemas - CUIS)](#art-culo-22-c-digo-nico-de-inicio-de-sistemas-cuis-)
+        - [Artículo 23. (Validez del CUIS)](#art-culo-23-validez-del-cuis-)
+        - [Artículo 24. (Código Único de Facturación Diaria - CUFD)](#art-culo-24-c-digo-nico-de-facturaci-n-diaria-cufd-)
+        - [Artículo 25. (Código Único de Facturación - CUF)](#art-culo-25-c-digo-nico-de-facturaci-n-cuf-)
+        - [Artículo 26. (Correlativo de Facturas)](#art-culo-26-correlativo-de-facturas-)
+        - [Artículo 27. (Envío de información adicional)](#art-culo-27-env-o-de-informaci-n-adicional-)
+        - [Artículo 28. (Firma Digital)](#art-culo-28-firma-digital-)
+        - [Artículo 29. (Obtención y Registro de Firma Digital)](#art-culo-29-obtenci-n-y-registro-de-firma-digital-)
+        - [Artículo 30. (Responsable de la Firma Digital)](#art-culo-30-responsable-de-la-firma-digital-)
+        - [Artículo 31. (Vigencia y validación de la Firma Digital)](#art-culo-31-vigencia-y-validaci-n-de-la-firma-digital-)
+        - [Artículo 32. (Representación Gráfica)](#art-culo-32-representaci-n-gr-fica-)
+        - [Artículo 33. (Consistencia de la Información)](#art-culo-33-consistencia-de-la-informaci-n-)
+        - [Artículo 34. (Formato de la Representación Gráfica de los Documentos Fiscales Electrónicos)](#art-culo-34-formato-de-la-representaci-n-gr-fica-de-los-documentos-fiscales-electr-nicos-)
+    - [CAPÍTULO III CONTINGENCIAS EN LOS SISTEMAS DE FACTURACIÓN](#cap-tulo-iii-contingencias-en-los-sistemas-de-facturaci-n)
+        - [Artículo 37. (Contingencias en el Sistema de Facturación)](#art-culo-37-contingencias-en-el-sistema-de-facturaci-n-)
+        - [Artículo 38. (Eventos significativos que generan contingencia)](#art-culo-38-eventos-significativos-que-generan-contingencia-)
+        - [Artículo 39. (Acciones posteriores a la contingencia)](#art-culo-39-acciones-posteriores-a-la-contingencia-)
+        - [Artículo 40. (Documentos Fiscales Electrónicos emitidos Fuera de Línea)](#art-culo-40-documentos-fiscales-electr-nicos-emitidos-fuera-de-l-nea-)
+        - [Artículo 41. (Uso de la modalidad Facturación Portal Web para contingencia)](#art-culo-41-uso-de-la-modalidad-facturaci-n-portal-web-para-contingencia-)
+        - [Artículo 42. (Uso y registro de Facturas de Contingencia y Notas Fiscales de Contingencia)](#art-culo-42-uso-y-registro-de-facturas-de-contingencia-y-notas-fiscales-de-contingencia-)
+        - [Artículo 43. (Previsión para Contingencias)](#art-culo-43-previsi-n-para-contingencias-)
+    - [CAPÍTULO IV CERTIFICACIÓN DE SISTEMAS DE FACTURACIÓN](#cap-tulo-iv-certificaci-n-de-sistemas-de-facturaci-n)
+        - [Artículo 44. (Proceso de Certificación de Sistemas de Facturación)](#art-culo-44-proceso-de-certificaci-n-de-sistemas-de-facturaci-n-)
+        - [Artículo 45. (Obligados a certificar)](#art-culo-45-obligados-a-certificar-)
+        - [Artículo 46. (Inicio de certificación)](#art-culo-46-inicio-de-certificaci-n-)
+        - [Artículo 47. (Funcionalidades y componentes a certificar)](#art-culo-47-funcionalidades-y-componentes-a-certificar-)
+        - [Artículo 48. (Fases de la certificación)](#art-culo-48-fases-de-la-certificaci-n-)
+        - [Artículo 49. (Certificado de cumplimiento de Sistemas de Facturación)](#art-culo-49-certificado-de-cumplimiento-de-sistemas-de-facturaci-n-)
+        - [Artículo 50. (Puesta en Producción)](#art-culo-50-puesta-en-producci-n-)
+        - [Artículo 51. (Revisión Posterior)](#art-culo-51-revisi-n-posterior-)
+        - [Artículo 52. (Actualización de Sistemas de Facturación)](#art-culo-52-actualizaci-n-de-sistemas-de-facturaci-n-)
+        - [Artículo 53. (Cancelación de Certificaciones)](#art-culo-53-cancelaci-n-de-certificaciones-)
+    - [CAPÍTULO V ASOCIACIÓN DE SISTEMAS](#cap-tulo-v-asociaci-n-de-sistemas)
+        - [Artículo 54. (Asociación del Sistema de Facturación Proveedor)](#art-culo-54-asociaci-n-del-sistema-de-facturaci-n-proveedor-)
+        - [Artículo 55. (Desvinculación de "Sistema Proveedor" a solicitud del Sujeto Pasivo o Tercero Responsable)](#art-culo-55-desvinculaci-n-de-sistema-proveedor-a-solicitud-del-sujeto-pasivo-o-tercero-responsable-)
+        - [Artículo 56. (Inactivación del Sistema de Facturación)](#art-culo-56-inactivaci-n-del-sistema-de-facturaci-n-)
+- [TÍTULO III MODALIDADES DE FACTURACIÓN](#t-tulo-iii-modalidades-de-facturaci-n)
+   - [CAPÍTULO I MODALIDAD FACTURACIÓN ELECTRÓNICA EN LÍNEA](#cap-tulo-i-modalidad-facturaci-n-electr-nica-en-l-nea)
+        - [Artículo 57. (Facturación Electrónica en Línea)](#art-culo-57-facturaci-n-electr-nica-en-l-nea-)
+        - [Artículo 58. (Emisión de Documentos Fiscales Electrónicos Masivos)](#art-culo-58-emisi-n-de-documentos-fiscales-electr-nicos-masivos-)
+        - [Artículo 59. (Envío de Documentos Fiscales Electrónicos)](#art-culo-59-env-o-de-documentos-fiscales-electr-nicos-)
+        - [Artículo 60. (Responsabilidad de Validar Documentos Fiscales Electrónicos enviados a la Administración Tributaria)](#art-culo-60-responsabilidad-de-validar-documentos-fiscales-electr-nicos-enviados-a-la-administraci-n-tributaria-)
+        - [Artículo 61. (Anulación de Documentos Fiscales Electrónicos)](#art-culo-61-anulaci-n-de-documentos-fiscales-electr-nicos-)
+- [ANEXO TÉCNICO](#anexo-t-cnico)
+    - [Facturación Electrónica](#facturaci-n-electr-nica)
+    - [TIPOS DE DOCUMENTOS POR SECTOR](#tipos-de-documentos-por-sector)
+    - [FORMATOS DE ARCHIVO DE DOUMENTOS FISCALES ELECTRÓNICOS](#formatos-de-archivo-de-doumentos-fiscales-electr-nicos)
+    - [PROCESO DE GENERACIÓN CUF](#proceso-de-generaci-n-cuf)
+        
+
+        
+
+
+# TÍTULO I DISPOSICIONES GENERALES
+
+### CAPÍTULO I ASPECTOS GENERALES
 
 ### Artículo 3. (Sistema de Facturación Electrónica).- 
 Proceso que comprende la Autorización, emisión, registro y trasmisión electrónica
@@ -72,8 +151,7 @@ personalidad jurídica), pública o privada, que al haber adquirido
 y pagado por un determinado bien, servicio u otra operación, se
 constituye en propietario o titular del Documento Fiscal.
 
-### CAPÍTULO II
-### DOCUMENTOS FISCALES
+### CAPÍTULO II DOCUMENTOS FISCALES
 
 ### Artículo 7. (Documentos Fiscales).- 
 Documentos tributarios autorizados por la Administración Tributaria cuya emisión respalda la
@@ -135,11 +213,9 @@ iguales a Bs3.000.- (Tres mil 00/100 Bolivianos).
 deberán ser expresados en moneda nacional (bolivianos) con dos
 decimales.
 
-## TÍTULO II
-## SISTEMA DE FACTURACIÓN
+# TÍTULO II SISTEMA DE FACTURACIÓN
 
-### CAPÍTULO I
-### ASPECTOS GENERALES
+### CAPÍTULO I ASPECTOS GENERALES
 
 
 ### Artículo 11. (Documentos Fiscales Electrónicos).- 
@@ -182,8 +258,7 @@ almacenar los Documentos Fiscales Electrónicos emitidos, conforme
 lo establecido en la presente Resolución Normativa y Anexo Técnico
 1.
 
-### CAPÍTULO II
-### REQUISITOS DEL SISTEMA DE FACTURACIÓN
+### CAPÍTULO II REQUISITOS DEL SISTEMA DE FACTURACIÓN
 
 #### Artículo 14. (Sistema de Facturación).- 
 El Sistema de Facturación
@@ -694,8 +769,7 @@ autoridad reguladora competente, siempre y cuando cumplan
 con los requisitos mínimos establecidos en la presente Resolución
 Normativa.
 
-### CAPÍTULO III
-### CONTINGENCIAS EN LOS SISTEMAS DE FACTURACIÓN
+### CAPÍTULO III CONTINGENCIAS EN LOS SISTEMAS DE FACTURACIÓN
 
 ### Artículo 37. (Contingencias en el Sistema de Facturación).-
 Se entenderá por contingencia a las alternativas para dar continuidad
@@ -952,8 +1026,7 @@ destinados a la emisión de Documentos Fiscales Electrónicos;
 
 **c)** Contar en stock con Facturas de Contingencia o Notas Fiscales de Contingencia.
 
-### CAPÍTULO IV
-### CERTIFICACIÓN DE SISTEMAS DE FACTURACIÓN
+### CAPÍTULO IV CERTIFICACIÓN DE SISTEMAS DE FACTURACIÓN
 
 ### Artículo 44. (Proceso de Certificación de Sistemas de Facturación).- 
 Proceso a través del cual la Administración Tributaria
@@ -1155,8 +1228,7 @@ los requisitos establecidos en la presente Resolución Normativa,
 inhabilitando de forma inmediata su utilización en todo el
 territorio nacional.
 
-### CAPÍTULO V
-### ASOCIACIÓN DE SISTEMAS
+### CAPÍTULO V ASOCIACIÓN DE SISTEMAS
 
 ### Artículo 54. (Asociación del Sistema de Facturación Proveedor).- 
 Para asociar un Sistema de Facturación de tipo
@@ -1211,10 +1283,8 @@ Electrónico emitido por un Sistema de Facturación inhabilitado, la
 Administración Tributaria rechazará la misma en función de su fecha
 y hora de emisión.
 
-## TÍTULO III
-## MODALIDADES DE FACTURACIÓN
-### CAPÍTULO I
-### MODALIDAD FACTURACIÓN ELECTRÓNICA EN LÍNEA
+# TÍTULO III MODALIDADES DE FACTURACIÓN
+### CAPÍTULO I MODALIDAD FACTURACIÓN ELECTRÓNICA EN LÍNEA
 
 ### Artículo 57. (Facturación Electrónica en Línea).- 
 **I.** Modalidad para la emisión de Documentos Fiscales Electrónicos firmados
@@ -1393,13 +1463,13 @@ proceso de denuncia vigente.
 **V.** Excepcionalmente para la Factura Comercial de Exportación se
 dará un plazo de 180 días para la anulación.
 
-### Anexo Técnico.
+# ANEXO TÉCNICO
 
-### Facturación Electrónica
+## Facturación Electrónica
 
 ![Facturacion Electronica](images/FacturacionElectronicaEnLinea.png)
 
-### TIPOS DE DOCUMENTOS POR SECTOR
+## TIPOS DE DOCUMENTOS POR SECTOR
 Los Tipos de Documento por Sector que serán utilizados dentro el Sistema de
 Facturación serán los siguientes:
 
